@@ -11,8 +11,8 @@
   DTS:LocaleID="3082"
   DTS:ObjectName="IS_EstadisticasICA"
   DTS:PackageType="5"
-  DTS:VersionBuild="337"
-  DTS:VersionGUID="{0E6F7A53-9274-4C0F-ACC3-A2F02FA03C20}">
+  DTS:VersionBuild="341"
+  DTS:VersionGUID="{F26D9FE4-AC72-400A-90C0-294ACD964790}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABdUBEt6BB2fT5JS3S3MCUAAAAAAASAAACgAAAAEAAAAHE0FfePyN/DFfo9qg5zUQMQAAAAQHPUJyWykPOG5CIreT6R5hQAAAAOiKtHL2JWKl1G3MWsEOUwlxaTtQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAf43cUaELkx3ZYE5YWsEYxAAAAAASAAACgAAAAEAAAAP4KfrVOU+x5TvvaBzmk7qsQAAAAp2j3dNT+d9/l6Mfu1DwL8hQAAABSQ9SfRXoFtswdwJIbU7ZqzAWzHA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABCRxdZ5Nin9omHRZqe0WceAAAAAASAAACgAAAAEAAAALBsBuISefoZeu81aqeO/OwYAAAAMqL4x1CSSTGNfMqhNVCozde9h360tVA7FAAAAB7FRqbHPmLCTuM50AJV7Ma0Csm3</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABXShv5MCjeIffOTMuXgdziAAAAAASAAACgAAAAEAAAAIHFJrI3pjswmVEntglzDQIYAAAA7gekLc+KxY2FqdKl/ULqmyDEE0OkKBoOFAAAAAeqWPYssaIIQB/HJwJlG7yAEDi6</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -59,7 +59,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABB8F7SJ1h5CZv54Y6HxmhzAAAAAASAAACgAAAAEAAAANxuerBKX7kbaGaTNHQk2aoYAAAA3s9Ilod70ZlYJ/QMDHL/P5Ir7LXi58udFAAAABVsFywwtgnlYh3d3EENbu3pknFE</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAD1dbhKLLw0Ys76X6Yb7wJlAAAAAASAAACgAAAAEAAAAELOQNOvfC+O4uxs5YAHHygYAAAAAl6xaCAxDyEExGZlbQnBonMELY18ApevFAAAACOCM9Fez0Xt32jBUeG2S+7LFDln</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -74,7 +74,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABN3xjuS9If2jdtRIEZsf3oAAAAAASAAACgAAAAEAAAACJHZ22i//MtxbBgrG7CQSogAAAA/jqon/D9S1ilYp5t+0E453GThliqu5eu77ftrve5NhwUAAAABaJtkQwe2kNfoMZco/tcRIpPUM8</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACd3darw5GpikyspuKAQthuAAAAAASAAACgAAAAEAAAAJuZdYkCVvOfpvE26+GhLWogAAAAv4MNA0TNBS62AKaqXLgDpb+mAzu0/ioQPPEwc/BHgZ8UAAAAoRGwYo8E1nksxvaZjwZ0gxgrfRY</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -89,7 +89,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAqUxuGJOZkpHe8LM+kr8S2AAAAAASAAACgAAAAEAAAANiVSEoc0lQHGQtiASyDwTYgAAAA8kcfXqb5U+MFPNAxoysXpLI/2ccI+cLfryVSFeXiiogUAAAAAG6uUaMIW3uu+He4/PKF/9zPUUk</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACThIG6JavA6Sj7VFpDIvQFAAAAAASAAACgAAAAEAAAALe7d/1D7zrGJgJb/78mH9wgAAAANsHdkptI56965lRC/EYj5zfU/KI7E5hMiXOf1mDbBckUAAAA+JeodOusDaZBeZTGmV0qbVD22+E</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -106,7 +106,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAADO4uf2HDBvu6e4fWmiXEeAAAAAASAAACgAAAAEAAAAFtD6FXzaY5nw0zpDcTGoYAgAAAAOSs1BwaYu12XbgmAEsR0n+KSvDqtl7t4nMq1CBxdH8sUAAAAfnUhtsV0lLZ5SCnFxN8W4LAeUhI</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABuKMm0msPv6civvmDIia2UAAAAAASAAACgAAAAEAAAAPZ9w7nZEpJbjGR4XkPWSmkgAAAAVbayoW/jaRniF/eAxo7S7CW5yrBgsO5zv1p6AMRzLbcUAAAA2IeDRwAy261Nxk1uJTOoZbz5zJY</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -121,7 +121,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAB+g09JUoFD2GZ+b1rChxYiAAAAAASAAACgAAAAEAAAAIDq6WkxOhOkQli4Q937laggAAAAnGSSlRe3zEZWyBIr+NKcgjud8UC0yjclXPjYBIMoeR0UAAAARrKTR8SAVSHgnWB8vHuROtcD5hM</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABNCU6fQBr5X0xGE6VYtLaNAAAAAASAAACgAAAAEAAAAK1SotSsDWWyKP0EJ22cmy8gAAAA6VzNZ8O33gitguyYL0PpTPNiF3lUBNtshtdgK4TlsFAUAAAA3cGCPH2Gq8wrxUxC1ztTBSIrJI8</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -136,7 +136,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAD5+OA+2kMziUE1J2QFZM0MAAAAAASAAACgAAAAEAAAAG0EKirsKwHOZ4UZy2N2rfogAAAA44hH/pYHayWlOCpL+Y5JnJq7v3dZKL+I/99hlc4PONwUAAAAuQhKQCoaM/3EU9ycFog0A9yqqco</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACPM2Ft9k/w5bh70rrAKq2wAAAAAASAAACgAAAAEAAAAPrJrC7j5tUBl79ul4sgKVkgAAAAVQPPsbcB50oqG5GbdserHm1Vloq5aZBQsh2vUPewUoYUAAAApX40e8Cb9toV1LiuZHRSFlee+aM</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -151,7 +151,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAC8jWtDkHEUdYX4mprb+0ijAAAAAASAAACgAAAAEAAAAELKOOnRAnz/oYxwyw2mdFcgAAAAZu2vwHGmJ9n91nt68V3BoziaTJ/QDTl7rGF0ldhDMg8UAAAAhCiIYgRRGpVrBFs8vkW+qggMBVU</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABlGOVB4wtDb72tkz4OYv5eAAAAAASAAACgAAAAEAAAAA9OVv/EnV9QHw8IEnV3q5wgAAAA/o4uSVEONQaJ6db/ezNDczVicdwfp0sVUHWow513B58UAAAAu9+ejNkQhbXcOCVuD19ZXkB63ts</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -166,7 +166,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACSGNpAoVmeeUi9E+hFzpBWAAAAAASAAACgAAAAEAAAANIMi2TmLo59KS6ONzIVbcsgAAAAIqE/DT5K9mV+PL8e49y+7XOlCkdoHgwVyxIMkwee8dgUAAAAw/r2mM/Mnjsf6aoBphD/cLcv7x8</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACI5lQwj6JLqgDTW3yWvXWeAAAAAASAAACgAAAAEAAAAGkUDbgzKVd7W7Vl8K6ok1YgAAAArBzzuCEYGPLMkJeRgxW60QsiuUgb/TrNVG/RTFONDo0UAAAA6YkUHzJ5pSWgc6VgsFWiaBE1ZQE</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -179,11 +179,11 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=ucsh@saes_soc;User ID=informix;Provider=Ifxoledbc.4;Persist Security Info=True;">
+          DTS:ConnectionString="Data Source=ucsh@saes_soc;User ID=ifxprod;Provider=Ifxoledbc.4;Persist Security Info=True;">
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACVNVXn9o6UG7UQ7x2WdLfrAAAAAASAAACgAAAAEAAAAKGMcRmXMeZtrGZW1BoriYIYAAAAUpDwG+zc/qQp+T79MNsyvaI9gHMystm1FAAAAJZbMpzXzc9HO3uHFHcH/bRZGop1</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAv5Ski4UmcUuTeiKmBc3dcQAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAulEMm1tfVThlMOV6QWpUtAAAAAASAAACgAAAAEAAAAL9x4i9xpMiCPKaGbhkMe8QYAAAA98QWVozg5KJYKRmT2JC2CrtA5+r7s6i0FAAAAHQDG9xQwpHtY6agg3URkiaZvBVh</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -245,7 +245,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="capc_fter">
       <DTS:VariableValue
-        DTS:DataType="7">8/22/2021</DTS:VariableValue>
+        DTS:DataType="7">1/12/2024</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -256,7 +256,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="fecha_actual">
       <DTS:VariableValue
-        DTS:DataType="8">14-11-2023</DTS:VariableValue>
+        DTS:DataType="8">03-01-2024</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -267,7 +267,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="fecha_rezagados">
       <DTS:VariableValue
-        DTS:DataType="8">22-08-2021</DTS:VariableValue>
+        DTS:DataType="8">12-01-2024</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -276,7 +276,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="fecha_rezagados_fija">
       <DTS:VariableValue
-        DTS:DataType="8">01-08-2023</DTS:VariableValue>
+        DTS:DataType="8">12-01-2024</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -7899,7 +7899,7 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
     design-time-name="Package\Contenedor de secuencias 3\Tarea Flujo de datos">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="164,42"
           Id="Package\Contenedor de secuencias 3\Tarea Flujo de datos\Columna derivada"
@@ -7943,7 +7943,9 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -7977,7 +7979,9 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -8028,7 +8032,7 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
     design-time-name="Package\Ejecutar_EXTRACCION_ICA_sin_condicion\Contenedor de secuencias 1\Tarea Flujo de datos">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="164,42"
           Id="Package\Ejecutar_EXTRACCION_ICA_sin_condicion\Contenedor de secuencias 1\Tarea Flujo de datos\Origen de OLE DB"
@@ -8072,7 +8076,9 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8106,7 +8112,9 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -8137,7 +8145,7 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
     design-time-name="Package\Ejecutar_EXTRACCION_ICA_sin_condicion\Contenedor de secuencias 1\Tarea Flujo de datos 1">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="164,42"
           Id="Package\Ejecutar_EXTRACCION_ICA_sin_condicion\Contenedor de secuencias 1\Tarea Flujo de datos 1\Origen de OLE DB"
@@ -8177,7 +8185,9 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -8208,7 +8218,7 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
     design-time-name="Package\Ejecutar_EXTRACCION_ICA_sin_condicion\Contenedor de secuencias 1\Tarea Flujo de datos 2">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="164,42"
           Id="Package\Ejecutar_EXTRACCION_ICA_sin_condicion\Contenedor de secuencias 1\Tarea Flujo de datos 2\Origen de OLE DB"
@@ -8252,7 +8262,9 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -8286,7 +8298,9 @@ select facu_codi,facu_desc,escu_codi,escu_desc,alum_carr,carr_desc,alum_rut,
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
